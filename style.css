@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 10px 20px 20px 20px; 
+
+}
+
+.header button{
+
+    border-radius: 20px;
+    color: pink;
+    border: 1px solid pink;
+    width: 100px;
+    background-color: white;
+    
+}
+
+.mainsection{
+
+    margin-top: 40px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    padding: 40px 40px 40px 40px;
+    height: 40vh;
+    text-align: center;
+
+}
+
+.mainsection h1{
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.mainsection p{
+    margin-bottom: 15px;
+    color: grey;
+
+}
+
+.mainsection button , .fo{
+    margin-top: 15px;
+
+    width: 250px;
+    height: 40px;
+    color: white;
+    background-color: palevioletred;
+    border: none;
+    border-radius: 20px;
+    font-size: 17px;
+}
+
+.illus{
+
+    text-align: center;
+    
+
+}
+
+
+.maincontent{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    align-items: center;
+   margin: 95px;
+   /* box-shadow: 0 10px 10px #ddd; */
+   margin-bottom: 40px;
+    
+
+}
+
+.desc img{
+   max-width: 100%;
+   width: 520px;
+   padding-right: 80px;
+} 
+
+
+.content h1 ,p {
+padding-bottom: 20PX;
+padding-left: 80px;
+
+}
+
+.content h1{
+    font-size: 40px;
+
+}
+
+.com
+{
+    align-items:center;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.fo{
+margin-top: 30px;
+}
+
+
+.clients{
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.clients h6{
+    font-size: 50px;
+
+}
+
+
+.clients h3{
+
+    color: grey;
+}
+.top-footer{
+    display: flex;
+    justify-content: space-around;
+    height: 50vh;
+    margin-top: 50px;
+    color: white;
+    padding-top: 100px;
+    background-color: #1c525f;
+    
+   
+   
+
+}
+
+
+
+.phone{
+
+    padding-top: 20px;
+    padding-right: 41px;
+}
+
+.phone img , .email img{
+
+    padding-right: 15px;
+}
+
+
+.Newsletter h1 {
+
+    /* text-align: start;  */
+padding-bottom: 20px;
+
+}
+
+.Newsletter button{
+
+    margin-top: 15px;
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: palevioletred;
+    border: none;
+    border-radius: 3px;
+    font-size: 17px;
+    margin-left: 40px;
+}
+
+.Newsletter input{
+    width: 230px;
+    height: 40px;
+    border-radius: 3px;
+    border: none;
+}
+
+.socialicons i {
+    margin-right: 10px;  
+    padding-top: 40px;
+
+}
+footer {
+    margin-top: auto;
+    background: #f1f1f1;
+    padding: 10px 0;
+    text-align: center;
+}  
